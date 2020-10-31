@@ -1,7 +1,8 @@
 ﻿// Program 4
 // CIS 199-XX
 // Due: 12/3/2019
-// By: Andrew L. Wright
+// Initialized By: Andrew L. Wright
+// Developed by: Tanner Lyon
 
 // File: LibraryBook.cs
 // This file creates a simple LibraryBook class capable of tracking
